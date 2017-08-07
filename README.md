@@ -10,7 +10,10 @@ Technologies Used:
 - Python 3.5
 - Keras
 - Tensorflow backend
+- Recurrent Neural Networks (RNN)
 - LSTM (Long short term memory)
+- Global Attention mechanism with encoder decoder
+- Glove word embeddings
 
 Dataset:
 --------
